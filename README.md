@@ -9,8 +9,6 @@ Por favor, leia esses Termos de Uso e Política de privacidade cuidadosamente an
 
 Quaisquer novos recursos ou ferramentas que forem adicionados ao aplicativo também devem estar sujeitos aos Termos de Uso e Política de privacidade. Você pode revisar a versão mais atual dos Termos de Uso e Política de privacidade quando quiser nesta página. Reservamos o direito de atualizar, alterar ou trocar qualquer parte desses Termos de Uso e Política de privacidade ao publicar atualizações e/ou alterações no nosso aplicatico. É sua responsabilidade verificar as alterações feitas nesta página periodicamente. Seu uso contínuo ou acesso ao aplicativo após a publicação de quaisquer alterações constitui aceitação de tais alterações.
 
-Nosso Aplicativo não foi publicado na PlayStore. e estará a sua disposição Pelo valor informado no ato da compra.
-
 ## SEÇÃO 1 - TERMOS DO APLICATIVO
 
 Ao concordar com os Termos de Uso e Política de privacidade, você confirma que você é maior de idade em seu estado ou província de residência e que você nos deu seu consentimento para permitir que qualquer um dos seus dependentes menores de idade usem esse aplicativo.
@@ -97,11 +95,11 @@ Não garantimos que os resultados que possam ser obtidos pelo uso do serviço se
 
 Você concorda que de tempos em tempos, podemos remover o serviço por períodos indefinidos de tempo ou cancelar a qualquer momento, sem te notificar.
 
-Em nenhuma circunstância o RonnyyApp, nossos diretores, oficiais, funcionários, afiliados, agentes, contratantes, estagiários, fornecedores, prestadores de serviços ou licenciadores serão responsáveis por qualquer prejuízo, perda, reclamação ou danos diretos, indiretos, incidentais, punitivos, especiais ou consequentes de qualquer tipo, incluindo, sem limitação, lucros cessantes, perda de receita, poupanças perdidas, perda de dados, custos de reposição, ou quaisquer danos semelhantes, seja com base em contrato, ato ilícito (incluindo negligência), responsabilidade objetiva ou de outra forma, decorrentes do seu uso de qualquer um dos serviços ou quaisquer produtos adquiridos usando o serviço, ou para qualquer outra reclamação relacionada de alguma forma ao seu uso do serviço ou qualquer produto, incluindo, mas não limitado a, quaisquer erros ou omissões em qualquer conteúdo, ou qualquer perda ou dano de qualquer tipo como resultado do uso do serviço ou qualquer conteúdo (ou produto) publicado, transmitido ou de outra forma disponível através do serviço, mesmo se alertado ​​de tal possibilidade. Como alguns estados ou jurisdições não permitem a exclusão ou a limitação de responsabilidade por danos consequentes ou incidentais, em tais estados ou jurisdições, a nossa responsabilidade será limitada à extensão máxima permitida por lei.
+Em nenhuma circunstância o LucakGames, nossos diretores, oficiais, funcionários, afiliados, agentes, contratantes, estagiários, fornecedores, prestadores de serviços ou licenciadores serão responsáveis por qualquer prejuízo, perda, reclamação ou danos diretos, indiretos, incidentais, punitivos, especiais ou consequentes de qualquer tipo, incluindo, sem limitação, lucros cessantes, perda de receita, poupanças perdidas, perda de dados, custos de reposição, ou quaisquer danos semelhantes, seja com base em contrato, ato ilícito (incluindo negligência), responsabilidade objetiva ou de outra forma, decorrentes do seu uso de qualquer um dos serviços ou quaisquer produtos adquiridos usando o serviço, ou para qualquer outra reclamação relacionada de alguma forma ao seu uso do serviço ou qualquer produto, incluindo, mas não limitado a, quaisquer erros ou omissões em qualquer conteúdo, ou qualquer perda ou dano de qualquer tipo como resultado do uso do serviço ou qualquer conteúdo (ou produto) publicado, transmitido ou de outra forma disponível através do serviço, mesmo se alertado ​​de tal possibilidade. Como alguns estados ou jurisdições não permitem a exclusão ou a limitação de responsabilidade por danos consequentes ou incidentais, em tais estados ou jurisdições, a nossa responsabilidade será limitada à extensão máxima permitida por lei.
 
 ## SEÇÃO 13 - INDENIZAÇÃO
 
-Você concorda em indenizar, defender e isentar RonnyyApp e nossos subsidiários, afiliados, parceiros, funcionários, diretores, agentes, contratados, licenciantes, prestadores de serviços, subcontratados, fornecedores, estagiários e funcionários, de qualquer reclamação ou demanda, incluindo honorários de advogados, por quaisquer terceiros devido à violação destes Termos de Uso e Política de privacidade ou aos documentos que incorporam por referência, ou à violação de qualquer lei ou os direitos de um terceiro.
+Você concorda em indenizar, defender e isentar LucakGames e nossos subsidiários, afiliados, parceiros, funcionários, diretores, agentes, contratados, licenciantes, prestadores de serviços, subcontratados, fornecedores, estagiários e funcionários, de qualquer reclamação ou demanda, incluindo honorários de advogados, por quaisquer terceiros devido à violação destes Termos de Uso e Política de privacidade ou aos documentos que incorporam por referência, ou à violação de qualquer lei ou os direitos de um terceiro.
 
 ## SEÇÃO 14 - INDEPENDÊNCIA
 
@@ -123,11 +121,7 @@ Reservamos o direito, a nosso critério, de atualizar, modificar ou substituir q
 
 ## SEÇÃO 17 - COLETA E USO DE INFORMAÇOES
 
-Para uma melhor experiência, ao usar nosso Serviço, posso solicitar que você nos forneça certas informações de identificação pessoal, incluindo, mas não se limitando a Não coletamos dados. As informações que solicito serão retidas em seu dispositivo e não serão coletadas por mim de forma alguma.
-
-O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
-
-provedores de serviços terceirizados usados ​pelo aplicativo
+As únicas informações que coletamos são os inputs para movimentação do personagem do jogo. 
 
 ## SEÇÃO 18 - INFORMAÇÕES DE CONTATO
 
